@@ -1,0 +1,3 @@
+module ExampleEngine
+  VERSION = "0.0.1"
+end
